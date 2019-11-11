@@ -4,3 +4,4 @@
 4. MySql Database Used.
 5. Create a Database named ait(any name you may use) and set the database in .env file.
 6. Insert a admin info manually in the admin table and then login.
+7. Finnaly, you are eligible to see the admin interface. 
